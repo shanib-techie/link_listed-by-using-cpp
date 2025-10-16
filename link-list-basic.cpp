@@ -58,3 +58,23 @@ int main() {
 
     return 0;
 }
+
+
+
+
+
+
+// class Node{
+//     public:
+//     int val;
+//     Node* next;
+
+//     Node(int data){
+//         val = data;
+//         next = NULL;
+//     }
+// };
+// int main(){
+//     Node* n = new Node(1);
+//     cout<<n->val<<" "<<n->next<<endl;
+// }
